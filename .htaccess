@@ -1,0 +1,13 @@
+Order deny,allow
+Deny from all
+
+<Files "tony.html" >
+    Allow from all
+</Files>
+
+<Files "background.mp3">
+	Allow from all
+</Files>
+
+
+
